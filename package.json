@@ -1,7 +1,7 @@
 {
-    "name": "okayu-theme",
-    "displayName": "okayu theme",
-    "description": "Hololive Nekomata Okayu color theme",
+    "name": "rushia-theme",
+    "displayName": "rushia theme",
+    "description": "Hololive Uruha Rushia color theme",
     "version": "0.0.8",
     "engines": {
         "vscode": "^1.63.0"
